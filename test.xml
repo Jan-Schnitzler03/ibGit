@@ -1,10 +1,11 @@
-
+<?xml version="1.0" ?>
 <Wurzelelement>
 	<Schueler>
 		<Name>Magnus</Name>
 		<Nachname>Sevecke</Nachname>
 		<Alter>18</Alter>
 	</Schueler>
-</Wurzelelement>
+</Wurzelelement
+	
 
 
