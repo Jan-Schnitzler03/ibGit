@@ -3,6 +3,7 @@
 	<Schueler>
 		<Name>Magnus</Name>
 		<Nachname>Sevecke</Nachname>
+		<Klasse>AIA31</Klasse>
 		<Alter>30</Alter>
 	</Schueler>
 </Wurzelelement
